@@ -23,7 +23,6 @@ public class H15 {
 		System.out.println("sündinud "+paev1+paev2+"."+kuu1+kuu2+".20"+aasta1+aasta2);
 		
 		
-		
 	}
 
 }
